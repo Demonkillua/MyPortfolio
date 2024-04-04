@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-This portfolio project was created [React](https://react.dev/) and [Sanity](https://www.sanity.io/) following the online YouTube tutorial created by [Adrian Hajdin](https://github.com/adrianhajdin), which can be found [here](https://www.youtube.com/watch?v=XxXyfkrP298)
+This portfolio project was created [React](https://react.dev/) and [Sanity](https://www.sanity.io/) following the online YouTube tutorial created by [Adrian Hajdin](https://github.com/adrianhajdin), which can be found [here](https://www.youtube.com/watch?v=XxXyfkrP298).
 
 # Getting Started
 
